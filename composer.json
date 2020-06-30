@@ -1,0 +1,29 @@
+{
+    "name": "cinghie/yii2-qrcode",
+    "description": "Yii2 QR Code to create QR Code with yii2 framework",
+    "keywords": [
+        "yii2 qr code", 
+        "yii2 qrcode", 
+        "yii2 q r code",
+        "qr code"
+    ],
+    "homepage": "https://github.com/cinghie/yii2-qrcode",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Gogodigital.it",
+            "email": "info@gogodigital.it",
+            "homepage": "http://www.gogodigital.it/"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.14",
+        "endroid/qrcode": "^1.8",
+    },
+    "autoload": {
+        "psr-4": {
+            "cinghie\\qrcode\\": ""
+        }
+    }
+}
