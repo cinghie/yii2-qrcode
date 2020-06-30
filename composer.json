@@ -19,7 +19,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.14",
-        "endroid/qrcode": "^1.8",
+        "endroid/qrcode": "^1.8"
     },
     "autoload": {
         "psr-4": {
